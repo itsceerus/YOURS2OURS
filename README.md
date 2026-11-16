@@ -1,7 +1,7 @@
 # YOURS2OURS
 
-Description
-NeighborConnect is a community-based platform that connects neighbors through skill exchange and resource sharing. It allows users to offer, borrow, lend, or request skills, spaces, amenities, and supplies while promoting cooperation and stronger community relationships.
+**Description**
+YOURS2OURS is a community-based platform that connects neighbors through skill exchange and resource sharing. It allows users to offer, borrow, lend, or request skills, spaces, amenities, and supplies while promoting cooperation and stronger community relationships.
 
 **Features**
 1. User Registration and Profiles – Create accounts and manage personal information.
