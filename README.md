@@ -3,7 +3,7 @@
 Description
 NeighborConnect is a community-based platform that connects neighbors through skill exchange and resource sharing. It allows users to offer, borrow, lend, or request skills, spaces, amenities, and supplies while promoting cooperation and stronger community relationships.
 
-Features
+**Features**
 1. User Registration and Profiles – Create accounts and manage personal information.
 2. Skill Exchange – Offer or exchange skills such as tutoring, cooking, gardening, and repairs.
 3. Space Sharing – Share available rooms, parking spaces, yards, and other areas.
@@ -14,8 +14,7 @@ Features
 8. Booking and Scheduling – Arrange dates and times for sharing or exchanges.
 9. Ratings and Feedback – Rate and review completed transactions.
 
-### Users
-
+**Users**
 1. Community Members – People who offer, borrow, lend, or exchange skills and resources.
 2. Resource Providers – Users who share their available skills, spaces, amenities, or supplies.
 3. Resource Seekers – Users who need or request resources from other members.
