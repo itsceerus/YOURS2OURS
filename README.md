@@ -19,5 +19,7 @@ YOURS2OURS is a community-based platform that connects neighbors through skill e
 2. Resource Providers – Users who share their available skills, spaces, amenities, or supplies.
 3. Resource Seekers – Users who need or request resources from other members.
 4. System Administrator – Manages user accounts, monitors activities, and maintains the platform.
+
 **Members**
+
 Damayan, Zyrus Lindlie M. - FrontEnd Developer
